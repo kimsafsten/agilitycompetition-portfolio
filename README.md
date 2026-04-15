@@ -1,10 +1,9 @@
 ﻿# AgilityCompetition - Portfolio
 
-Web application for agility competitions with support for public registration/results, administration, and secretary workflows during event day.
+Web application for unofficial agility competitions with support for public registration/results, administration, and secretary workflows during event day.
 
 ## Live Demo
-- Frontend: `https://<your-vercel-url>`
-- API (optional public docs): `https://<your-api-url>/swagger`
+- Frontend: `https://agility-ui.vercel.app`
 
 ## Why I built this
 Competition administration often relies on fragmented tools and manual workflows. This project centralizes registration, class management, start lists, and result handling in one system.
@@ -36,7 +35,6 @@ flowchart LR
 - [Publish Checklist](./docs/PUBLISH_CHECKLIST.md)
 
 ## Screenshots
-Add screenshots in [assets](./assets/README.md) and update links below:
 - Public registration view
 - Public results view
 - Admin competition management
@@ -46,5 +44,5 @@ Add screenshots in [assets](./assets/README.md) and update links below:
 This repository is a portfolio showcase. Full production source is kept private.
 
 ## Contact
-- LinkedIn: `https://linkedin.com/in/<your-profile>`
-- Email: `<your-email>`
+- LinkedIn: `https://linkedin.com/in/kim-safsten`
+- Email: `kim@safsten.se`
