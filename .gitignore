@@ -1,0 +1,16 @@
+﻿# Portfolio repository ignore list
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+
+# Build artifacts
+dist/
+build/
+node_modules/
