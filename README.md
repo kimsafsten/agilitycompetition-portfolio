@@ -32,6 +32,7 @@ flowchart LR
 - [Features](./docs/FEATURES.md)
 - [Case Study](./docs/CASE_STUDY.md)
 - [Technical Decisions](./docs/TECH_DECISIONS.md)
+- [Code Samples](./docs/CODE_SAMPLES.md)
 - [Publish Checklist](./docs/PUBLISH_CHECKLIST.md)
 
 ## Screenshots
