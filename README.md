@@ -35,10 +35,10 @@ flowchart LR
 - [Publish Checklist](./docs/PUBLISH_CHECKLIST.md)
 
 ## Screenshots
-- Public registration view
-- Public results view
-- Admin competition management
-- Secretary live workflow
+- Public registration view ![Public registration](./assets/public-registration.png)
+- Public results view ![Public results](./assets/public-results.png)
+- Admin competition management ![Admin view competitions](./assets/admin-competitions.png)
+- Secretary live workflow ![Sekretary workflow](./assets/secretary-workflow.png)
 
 ## Note on source code
 This repository is a portfolio showcase. Full production source is kept private.
